@@ -1,0 +1,16 @@
+{
+  "name": "interior-consultant-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brandovidal/interior-consultant.git",
+  "author": "Brando Vidal",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "yarn start",
+    "start": "servor src index.html 5400 --reload --browse --static"
+  },
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
+}
