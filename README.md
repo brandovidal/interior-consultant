@@ -39,12 +39,11 @@
 
 _Screenshot Fullscreen_
 
-![Screenshot Fullscreen](src/assets/sc-desktop.png)
-
+![Screenshot Fullscreen](./desktop.png)
 
 _Screenshot Mobile_
 
-![Screenshot Mobile](src/assets/sc-mobile.png)
+![Screenshot Mobile](./mobile.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -81,6 +80,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [Brando Vidal](https://brandovidal.com)
 - GitHub [@brandovidal](https://github.com/brandovidal)
-- Twitter [@brandovidal](https://twitter.com/brandovidal_)
+- Twitter [@brandovidal](https://twitter.com/_brandovidal)
